@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:4528b0a54dd4ec91f0398856216b24532566618340c7ef6fd00345b776fb2c10
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler-hpa@sha256:016754885a1521d9abc37b4a5c4f65f4dddb39d4f2eabae9c57e34753f04724c
