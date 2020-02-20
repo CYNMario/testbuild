@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/eventing/cmd/controller@sha256:50b978ff05dae87567751dfe46cc187cfb44cc4e49fe8b6747732492c2c2a81c
+FROM docker.elastic.co/kibana/kibana:5.6.4
