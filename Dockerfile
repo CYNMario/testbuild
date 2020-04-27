@@ -1,1 +1,1 @@
-FROM golang:1.12.12
+FROM photon:2.0
