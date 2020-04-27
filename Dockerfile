@@ -1,1 +1,1 @@
-FROM photon:2.0
+FROM node:10.15.0
