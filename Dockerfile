@@ -1,1 +1,1 @@
-FROM atlassian/confluence-server:6.15.9-alpine
+FROM quay.azk8s.cn/setzero/docker-gitlab:v12.1.6
