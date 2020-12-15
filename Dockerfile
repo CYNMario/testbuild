@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/spark:1.5.1_v3
+FROM atlassian/confluence-server:6.15.9-alpine
