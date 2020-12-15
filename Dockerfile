@@ -1,1 +1,1 @@
-FROM quay.azk8s.cn/setzero/docker-gitlab:v12.1.6
+FROM atlassian/jira-software:8.3.3
