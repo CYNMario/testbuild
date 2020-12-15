@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.1
+FROM k8s.gcr.io/spark:1.5.1_v3
