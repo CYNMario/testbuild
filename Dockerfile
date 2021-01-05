@@ -1,1 +1,1 @@
-FROM atlassian/jira-software:8.3.3
+FROM gcr.io/distroless/static:nonroot
