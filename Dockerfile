@@ -1,1 +1,1 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch:6.3.2
+FROM mobz/elasticsearch-head:5
