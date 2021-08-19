@@ -1,1 +1,1 @@
-FROM docker.elastic.co/logstash/logstash:6.2.4
+FROM kibana:5.6.14
