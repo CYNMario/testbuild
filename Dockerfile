@@ -1,1 +1,1 @@
-FROM mobz/elasticsearch-head:5
+FROM docker.elastic.co/logstash/logstash:6.2.4
