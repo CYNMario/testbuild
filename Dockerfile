@@ -1,1 +1,1 @@
-FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.5.0
+FROM docker.elastic.co/elasticsearch/elasticsearch:6.3.2
