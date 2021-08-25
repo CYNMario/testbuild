@@ -1,1 +1,1 @@
-FROM elasticsearch:6.4.0
+FROM crccheck/hello-world
