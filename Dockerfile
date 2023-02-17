@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/etcd:3.5.3-0
+FROM k8s.gcr.io/kube-controller-manager:v1.25.2
