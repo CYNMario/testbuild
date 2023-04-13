@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-controller-manager:v1.25.2
+FROM ghcr.io/kedacore/keda:2.10.0
