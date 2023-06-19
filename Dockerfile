@@ -1,1 +1,1 @@
-FROM goharbor/prepare:v2.8.0
+FROM goharbor/prepare:v2.3.0
