@@ -1,1 +1,1 @@
-FROM goharbor/prepare:v2.3.0
+FROM docker.io/flannel/flannel-cni-plugin:v1.1.2
