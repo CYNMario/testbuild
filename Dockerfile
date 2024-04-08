@@ -1,1 +1,1 @@
-FROM docker.io/flannel/flannel:v0.22.0
+FROM registry.k8s.io/kube-scheduler:v1.29.2
