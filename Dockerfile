@@ -1,1 +1,1 @@
-FROM registry.k8s.io/kube-scheduler:v1.29.2
+FROM ghcr.io/open-webui/open-webui:main
